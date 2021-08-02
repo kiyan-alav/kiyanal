@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiyan_alavi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScriot
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on junior Web Developer to experience more
 - 📫 How to reach me ...
 
